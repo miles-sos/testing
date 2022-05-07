@@ -1,0 +1,2 @@
+# excluding the node_modules folder from being uploaded
+/node_modules
